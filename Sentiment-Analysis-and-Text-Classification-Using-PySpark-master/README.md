@@ -46,9 +46,5 @@ Performing Sentiment Analysis on Amazon Fine food reviews and classifying the re
  b. Naive Bayes
 ```
 
-## Authors
 
-* **Shikha Singh**
-* **Sayoni Chatterjee**
-* **Srishti Jaju**
 
